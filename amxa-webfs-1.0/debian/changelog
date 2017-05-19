@@ -1,0 +1,14 @@
+amxa-webfs (1.0-1ubuntu4) UNRELEASED; urgency=medium
+
+  * initial version
+  * fixed errors
+  * again
+  * again
+
+ -- root <root@basil-lap.basel.opinsys.fi>  Fri, 19 May 2017 12:06:01 +0200
+
+amxa-webfs (1.0-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Basil Stotz <stotz@amxa.ch>  Fri, 19 May 2017 11:29:11 +0200

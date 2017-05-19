@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Fri, 19 May 2017 12:06:01 +0200
+Source: amxa-webfs
+Binary: amxa-webfs
+Architecture: source all
+Version: 1.0-1ubuntu4
+Distribution: UNRELEASED
+Urgency: medium
+Maintainer: Basil Stotz <stotz@amxa.ch>
+Changed-By: root <root@basil-lap.basel.opinsys.fi>
+Description: 
+ amxa-webfs - <insert up to 60 chars description>
+Changes: 
+ amxa-webfs (1.0-1ubuntu4) UNRELEASED; urgency=medium
+ .
+   * initial version
+   * fixed errors
+   * again
+   * again
+Checksums-Sha1: 
+ cff3241771803d48b4e67dd793a6b70a58469357 585 amxa-webfs_1.0-1ubuntu4.dsc
+ 72454d2566bbdd0f28b7a3a18bf9fc59875d7d0d 10891 amxa-webfs_1.0-1ubuntu4.tar.gz
+ 47b98f170ce5b31d0208cc55b6d03cd6f4ad4185 2194 amxa-webfs_1.0-1ubuntu4_all.deb
+Checksums-Sha256: 
+ 071ce8f7070266e5190e497f26f12d474be462387315a3e331af7b73beb659b9 585 amxa-webfs_1.0-1ubuntu4.dsc
+ e56afb83b4cb16bcdfdddd2b24cbf8302e5733c63e41b129c84377c710cda129 10891 amxa-webfs_1.0-1ubuntu4.tar.gz
+ eb3ec8d3cb5467d8a35eb77d53bce0592ddf0053b1319210ee69e861459e871d 2194 amxa-webfs_1.0-1ubuntu4_all.deb
+Files: 
+ 2c9d7a60d8934a0741e3cc4dcd01cf33 585 unknown optional amxa-webfs_1.0-1ubuntu4.dsc
+ 91430c473992cf86f20263e12a3f47fc 10891 unknown optional amxa-webfs_1.0-1ubuntu4.tar.gz
+ 16e66b2f51e65da27728c3e9790715d2 2194 unknown optional amxa-webfs_1.0-1ubuntu4_all.deb
