@@ -21,7 +21,7 @@ set -e
 case "$1" in
     configure)
      cp /etc/webfsd.conf.amxa /etc/webfsd.conf
-     rm /etc/webfsd.conf.amxa
+#     rm /etc/webfsd.conf.amxa
     ;;
 
     abort-upgrade|abort-remove|abort-deconfigure)
