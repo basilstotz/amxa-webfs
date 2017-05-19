@@ -1,11 +1,20 @@
-amxa-webfs (1.0-1ubuntu4) UNRELEASED; urgency=medium
+amxa-webfs (1.0-1ubuntu13) UNRELEASED; urgency=medium
 
   * initial version
   * fixed errors
   * again
   * again
+  * again
+  * changed to dpkg-divert
+  * renamed file
+  * again
+  * again
+  * again
+  * changed params
+  * restart service webfs
+  * none
 
- -- root <root@basil-lap.basel.opinsys.fi>  Fri, 19 May 2017 12:06:01 +0200
+ -- root <root@basil-lap.basel.opinsys.fi>  Fri, 19 May 2017 13:45:28 +0200
 
 amxa-webfs (1.0-1) unstable; urgency=low
 
