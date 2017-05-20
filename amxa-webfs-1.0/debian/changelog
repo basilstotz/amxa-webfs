@@ -1,5 +1,6 @@
-amxa-webfs (1.0-1ubuntu13) UNRELEASED; urgency=medium
+amxa-webfs (1.0-1ubuntu14) UNRELEASED; urgency=medium
 
+  [ root ]
   * initial version
   * fixed errors
   * again
@@ -14,7 +15,10 @@ amxa-webfs (1.0-1ubuntu13) UNRELEASED; urgency=medium
   * restart service webfs
   * none
 
- -- root <root@basil-lap.basel.opinsys.fi>  Fri, 19 May 2017 13:45:28 +0200
+  [ Stotz Basil ]
+  * none
+
+ -- Stotz Basil <stotz.basil@basil-lap.basel.opinsys.fi>  Sat, 20 May 2017 16:39:29 +0200
 
 amxa-webfs (1.0-1) unstable; urgency=low
 

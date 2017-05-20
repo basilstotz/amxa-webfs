@@ -20,7 +20,7 @@ set -e
 
 case "$1" in
     configure)
-       /etc/init.d/webfs restart
+       /etc/init.d/webfs restart || true
     ;;
 
     abort-upgrade|abort-remove|abort-deconfigure)

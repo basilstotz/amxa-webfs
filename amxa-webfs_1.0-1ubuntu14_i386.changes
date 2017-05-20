@@ -1,0 +1,44 @@
+Format: 1.8
+Date: Sat, 20 May 2017 16:39:29 +0200
+Source: amxa-webfs
+Binary: amxa-webfs
+Architecture: source all
+Version: 1.0-1ubuntu14
+Distribution: UNRELEASED
+Urgency: medium
+Maintainer: Basil Stotz <stotz@amxa.ch>
+Changed-By: Stotz Basil <stotz.basil@basil-lap.basel.opinsys.fi>
+Description: 
+ amxa-webfs - <insert up to 60 chars description>
+Changes: 
+ amxa-webfs (1.0-1ubuntu14) UNRELEASED; urgency=medium
+ .
+   [ root ]
+   * initial version
+   * fixed errors
+   * again
+   * again
+   * again
+   * changed to dpkg-divert
+   * renamed file
+   * again
+   * again
+   * again
+   * changed params
+   * restart service webfs
+   * none
+ .
+   [ Stotz Basil ]
+   * none
+Checksums-Sha1: 
+ 75aeecde266f57e813e115f3b4da196fe35e5cd4 589 amxa-webfs_1.0-1ubuntu14.dsc
+ 8b91407a93bfda33ca5b71d8c2bb218593c0e035 11203 amxa-webfs_1.0-1ubuntu14.tar.gz
+ 883cf833f7f1cb38de45e028f59fa9727df1ae9f 2492 amxa-webfs_1.0-1ubuntu14_all.deb
+Checksums-Sha256: 
+ 5ea5fd7ffe854334adbf89f978aea314dc64f4cc15d8cd84f6a54bdc5deec5ef 589 amxa-webfs_1.0-1ubuntu14.dsc
+ 0b3c964695c1f0022abd8efbdde8b881da58ae161294b1936bccbff38a42b27f 11203 amxa-webfs_1.0-1ubuntu14.tar.gz
+ d7d7355409e5f5714233f418d96be485c0b25899db5fac7179b10687587f7a71 2492 amxa-webfs_1.0-1ubuntu14_all.deb
+Files: 
+ 05eacb787488b5799820463971eaa46a 589 unknown optional amxa-webfs_1.0-1ubuntu14.dsc
+ 896db58dd9a388896985d9716b12823e 11203 unknown optional amxa-webfs_1.0-1ubuntu14.tar.gz
+ e4a2a8a04033a7e86ae416561d33e10b 2492 unknown optional amxa-webfs_1.0-1ubuntu14_all.deb
