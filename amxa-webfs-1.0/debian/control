@@ -11,5 +11,5 @@ Homepage: <insert the upstream URL, if relevant>
 Package: amxa-webfs
 Architecture: all
 Depends: ${misc:Depends},webfs
-Description: <insert up to 60 chars description>
+Description: Provides a webserver for some programms
  <insert long description, indented with spaces>

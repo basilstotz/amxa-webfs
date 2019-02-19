@@ -20,8 +20,12 @@ set -e
 
 case "$1" in
     configure)
+	cp /etc/webfsd.conf.puavo /etc/webfsd.conf
        /etc/init.d/webfs restart || true
-    ;;
+
+       chmod u+xs /usr/sbin/mountloop
+       
+       ;;
 
     abort-upgrade|abort-remove|abort-deconfigure)
     ;;

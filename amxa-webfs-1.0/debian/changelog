@@ -1,4 +1,4 @@
-amxa-webfs (1.0-1ubuntu14) UNRELEASED; urgency=medium
+amxa-webfs (1.0-1ubuntu16.1) UNRELEASED; urgency=medium
 
   [ root ]
   * initial version
@@ -17,8 +17,13 @@ amxa-webfs (1.0-1ubuntu14) UNRELEASED; urgency=medium
 
   [ Stotz Basil ]
   * none
+  * changed postinst
+  * removed divert
 
- -- Stotz Basil <stotz.basil@basil-lap.basel.opinsys.fi>  Sat, 20 May 2017 16:39:29 +0200
+  [ Basil Stotz ]
+  * add mountloop
+
+ -- Basil Stotz <stotz.basil@builder4>  Tue, 19 Feb 2019 15:53:05 +0100
 
 amxa-webfs (1.0-1) unstable; urgency=low
 
