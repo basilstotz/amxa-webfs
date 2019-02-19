@@ -1,5 +1,5 @@
 Source: amxa-webfs
-Section: unknown
+Section: system
 Priority: optional
 Maintainer: Basil Stotz <stotz@amxa.ch>
 Build-Depends: debhelper (>= 8.0.0)

@@ -1,0 +1,53 @@
+Format: 1.8
+Date: Tue, 19 Feb 2019 15:57:59 +0100
+Source: amxa-webfs
+Binary: amxa-webfs
+Architecture: source all
+Version: 1.0-1ubuntu16.2
+Distribution: UNRELEASED
+Urgency: medium
+Maintainer: Basil Stotz <stotz@amxa.ch>
+Changed-By: Basil Stotz <stotz.basil@builder4>
+Description:
+ amxa-webfs - Provides a webserver for some programms
+Changes:
+ amxa-webfs (1.0-1ubuntu16.2) UNRELEASED; urgency=medium
+ .
+   [ root ]
+   * initial version
+   * fixed errors
+   * again
+   * again
+   * again
+   * changed to dpkg-divert
+   * renamed file
+   * again
+   * again
+   * again
+   * changed params
+   * restart service webfs
+   * none
+ .
+   [ Stotz Basil ]
+   * none
+   * changed postinst
+   * removed divert
+ .
+   [ Basil Stotz ]
+   * add mountloop
+   * change section to system
+Checksums-Sha1:
+ aa36e1db7f63a90542694956acec724d8fa84e62 598 amxa-webfs_1.0-1ubuntu16.2.dsc
+ 870a7a3ecc397080c90ce2e37deb430dc87c2d90 5370 amxa-webfs_1.0-1ubuntu16.2.tar.gz
+ 0ca5f31ef96a9c118213c939b9789b50a45ea32c 2364 amxa-webfs_1.0-1ubuntu16.2_all.deb
+ a95fffc42b09b6887277511a0f401ee132cd9645 5222 amxa-webfs_1.0-1ubuntu16.2_amd64.buildinfo
+Checksums-Sha256:
+ 9fedaac108bd2991d8aeeb210a160baf38f06abe95f491f3ff991c88705850b4 598 amxa-webfs_1.0-1ubuntu16.2.dsc
+ 2f6c3bddbade648940855f15c2ad32ebb9851e41b88f27165d9df9428cf0a000 5370 amxa-webfs_1.0-1ubuntu16.2.tar.gz
+ 3f0df39399eab64bf05a1d9e3f3995ba4403df5e539044770f9547d669191d7d 2364 amxa-webfs_1.0-1ubuntu16.2_all.deb
+ cb86a9052c8dc7b44dc076853f8324ecabb865e19f9f4ac12cafa549c20232ed 5222 amxa-webfs_1.0-1ubuntu16.2_amd64.buildinfo
+Files:
+ 58b4743e385a85e3279f385a81305ea8 598 system optional amxa-webfs_1.0-1ubuntu16.2.dsc
+ 1877e49042faed9a77b14409a8f7f30d 5370 system optional amxa-webfs_1.0-1ubuntu16.2.tar.gz
+ f227a6d7bc66ec14de72458877b2cae5 2364 system optional amxa-webfs_1.0-1ubuntu16.2_all.deb
+ 38bb145eb8615f28058e5e37513d1948 5222 system optional amxa-webfs_1.0-1ubuntu16.2_amd64.buildinfo

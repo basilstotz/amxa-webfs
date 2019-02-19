@@ -2,19 +2,19 @@ Format: 1.0
 Source: amxa-webfs
 Binary: amxa-webfs
 Architecture: all source
-Version: 1.0-1ubuntu16.1
+Version: 1.0-1ubuntu16.2
 Checksums-Md5:
- cd8ed56d6ed26e6568e04dfbcd8da7af 599 amxa-webfs_1.0-1ubuntu16.1.dsc
- 4df8d6cff3eb27b23bff2de71d22528e 2344 amxa-webfs_1.0-1ubuntu16.1_all.deb
+ 58b4743e385a85e3279f385a81305ea8 598 amxa-webfs_1.0-1ubuntu16.2.dsc
+ f227a6d7bc66ec14de72458877b2cae5 2364 amxa-webfs_1.0-1ubuntu16.2_all.deb
 Checksums-Sha1:
- df1c8ca938ce9cd86ab388b028549808093413fa 599 amxa-webfs_1.0-1ubuntu16.1.dsc
- b2a05b94b7f31b60bb04e791a62d63771e3b9f34 2344 amxa-webfs_1.0-1ubuntu16.1_all.deb
+ aa36e1db7f63a90542694956acec724d8fa84e62 598 amxa-webfs_1.0-1ubuntu16.2.dsc
+ 0ca5f31ef96a9c118213c939b9789b50a45ea32c 2364 amxa-webfs_1.0-1ubuntu16.2_all.deb
 Checksums-Sha256:
- ad21aaf0d09c71b535040933cd27bea42381180a7179d29ed24af9fcf5295a25 599 amxa-webfs_1.0-1ubuntu16.1.dsc
- 5b49ae88b6579161d5c40d53e73f770dbbf9634a4a798b072c767d461b792572 2344 amxa-webfs_1.0-1ubuntu16.1_all.deb
+ 9fedaac108bd2991d8aeeb210a160baf38f06abe95f491f3ff991c88705850b4 598 amxa-webfs_1.0-1ubuntu16.2.dsc
+ 3f0df39399eab64bf05a1d9e3f3995ba4403df5e539044770f9547d669191d7d 2364 amxa-webfs_1.0-1ubuntu16.2_all.deb
 Build-Origin: Debian
 Build-Architecture: amd64
-Build-Date: Tue, 19 Feb 2019 15:53:25 +0100
+Build-Date: Tue, 19 Feb 2019 15:58:16 +0100
 Installed-Build-Depends:
  autoconf (= 2.69-10),
  automake (= 1:1.15-6),
@@ -170,4 +170,4 @@ Environment:
  DEB_BUILD_OPTIONS="parallel=4"
  LANG="de_CH.UTF-8"
  MAKEFLAGS=""
- SOURCE_DATE_EPOCH="1550587985"
+ SOURCE_DATE_EPOCH="1550588279"
